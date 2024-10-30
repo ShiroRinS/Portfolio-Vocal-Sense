@@ -1,5 +1,7 @@
 # Vocal Sense - AI-Generated Voice Detection
 
+<img src="./resources/presentations/Thumbnail.png" alt="Thumbnail"/>
+
 **Vocal Sense** is a web application designed to detect AI-generated voices in audio files, helping users identify authentic versus synthesized voices. The project was awarded **3rd Place at the National Software Contest 2024: Innovation For Science (NSC Thailand)**, hosted by Thammasat University.
 
 ## Project Recognition
@@ -46,10 +48,21 @@ VocalSense is a cloud-based web application accessible through any browser on va
 1. Open a web browser on your computer or mobile device with an internet connection.
 2. Enter “https://vocalsense.pythonanywhere.com/” in the browser's search bar. [Or click here!](https://vocalsense.pythonanywhere.com/)
 3. Click the “**Get started**” button on the left side to begin.
-4. The site will direct you to the audio file input page.
-5. Click the “**Upload File**” button and select the audio file you want to analyze for AI generation.
-6. The site will analyze the file and display the percentage likelihood of it being AI-generated.
-7. To analyze another audio file, click the “S**can next file!**” link at the bottom.
+<img src="./resources/website_pages/HomePage.png" alt="Home Page"/>
+
+5. The site will direct you to the audio file input page.
+6. Click the “**Upload File**” button and select the audio file you want to analyze for AI generation. 
+7. The site will analyze the file and display the percentage likelihood of it being AI-generated.
+<img src="./resources/website_pages/SoundsLike AI.gif" alt="Demonstration"/>
+
+8. To analyze another audio file, click the “S**can next file!**” link in the middle.
+---
+
+## Poster
+<div style="text-align: center;">
+    <img src="./resources/poster/VocalSense Poster.png" alt="Poster" width="50%" />
+</div>
+
 ---
 
 ## Contact
