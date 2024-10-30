@@ -60,7 +60,7 @@ VocalSense is a cloud-based web application accessible through any browser on va
 
 ## Poster
 <div style="text-align: center;">
-    <img src="./resources/poster/VocalSense Poster.png" alt="Poster" width="50%" />
+    <img src="./resources/poster/VocalSense Poster.png" alt="Poster" width="80%" />
 </div>
 
 ---
