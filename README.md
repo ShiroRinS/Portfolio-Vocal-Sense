@@ -46,7 +46,7 @@ VocalSense is a cloud-based web application accessible through any browser on va
 
 **How to Use VocalSense:**
 1. Open a web browser on your computer or mobile device with an internet connection.
-2. Enter “https://vocalsense.pythonanywhere.com/” in the browser's search bar. [Or click here!](https://vocalsense.pythonanywhere.com/)
+2. Enter `https://vocalsense.pythonanywhere.com/` in the browser's search bar. [Or click here!](https://vocalsense.pythonanywhere.com/) 
 3. Click the “**Get started**” button on the left side to begin.
 <img src="./resources/website_pages/HomePage.png" alt="Home Page"/>
 
