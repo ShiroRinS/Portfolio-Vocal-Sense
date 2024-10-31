@@ -55,7 +55,7 @@ VocalSense is a cloud-based web application accessible through any browser on va
 7. The site will analyze the file and display the percentage likelihood of it being AI-generated.
 <img src="./resources/website_pages/SoundsLike AI.gif" alt="Demonstration"/>
 
-8. To analyze another audio file, click the “S**can next file!**” link in the middle.
+8. To analyze another audio file, click the “**Scan next file!**” link in the middle.
 ---
 
 ## Poster
